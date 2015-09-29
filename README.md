@@ -1,3 +1,4 @@
+Kyle Maxwell
 # Outline for Monday, September 28th
 - Review Wednesday's exercises
 - Functions
